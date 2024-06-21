@@ -1,15 +1,15 @@
 # Mauro Raya Franco
 
-**`Software Developer and Mentor`**
-
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
 
-Hello there! I'm a software developer with experience in C#, .NET, Python, JavaScript, and other technologies. I am committed to creating clear code that promotes collaboration and prioritizes user data security. I take pleasure in developing intuitive interfaces that provide an excellent user experience.
+Hello there! I am an Information Systems' student with a strong interest in software development, focused on learning and enhancing my skills. I have experience with C#, .NET, Python, and JavaScript, and I am seeking opportunities to further expand my knowledge in the field.
 
-Apart from developing, I dedicate part of my free time to sharing my programming knowledge with others. I find great satisfaction in teaching and mentoring, whether it's writing tutorials or assisting fellow developers troubleshoot their code.
+I have a strong focus on creating durable and scalable solutions, implementing agile algorithms, and encouraging collaborative development practices. Constantly acquiring new technologies is a priority for me to enhance my projects and deliver top-notch products.
 
-Feel free to explore my projects and I hope you enjoy it!👋
+In addition to development, I dedicate part of my free time to sharing programming knowledge. I find great satisfaction in teaching and assisting other developers, whether through tutorials or helping colleagues troubleshoot their code.
+
+Feel free to explore my projects and follow my development. I am always looking for new challenges and opportunities to grow professionally.👋
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
