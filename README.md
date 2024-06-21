@@ -1,15 +1,15 @@
 # Mauro Raya Franco
 
-**`Desenvolvedor de Software e Mentor`**
-
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
 
-Olá. Sou um desenvolvedor de software com experiência em C#, .NET, Python, JavaScript e outras tecnologias. Sou comprometido com a criação de código claro que fortalece a colaboração e priorize a segurança dos dados dos usuários. Tenho prazer em desenvolver interfaces intuitivas que proporcionam uma excelente experiência de usuário.
+Olá, sou estudante de Sistemas de Informação com interesse em desenvolvimento de software, focado em aprender e aprimorar minhas habilidades. Tenho experiência com C#, .NET, Python e JavaScript, e estou em busca de oportunidades para expandir meu conhecimento na área.
 
-Além do desenvolvimento, dedico parte do meu tempo livre para compartilhar meu conhecimento de programação com outros. Sinto grande satisfação em ensinar e orientar, seja escrevendo tutoriais ou ajudando colegas desenvolvedores a resolver problemas em seus códigos.
+Tenho grande interesse em criar soluções robustas e escaláveis, aplicando metodologias eficientes e promovendo práticas de desenvolvimento colaborativo. Estou constantemente aprendendo novas tecnologias para melhorar meus projetos e buscar excelência na entrega de produtos de qualidade.
 
-Fique à vontade para explorar meus projetos.👋
+Além do desenvolvimento, dedico parte do meu tempo livre para compartilhar conhecimento de programação. Sinto grande satisfação em ensinar e ajudar outros desenvolvedores, seja através de tutoriais ou auxiliando colegas a resolver problemas em seus códigos.
+
+Sinta-se à vontade para explorar meus projetos e acompanhar meu desenvolvimento. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.👋
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
