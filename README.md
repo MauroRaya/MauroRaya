@@ -1,7 +1,7 @@
 # Mauro Raya Franco
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.pt-br.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.en.md)
 
 Olá, sou estudante de Sistemas de Informação com interesse em desenvolvimento de software, focado em aprender e aprimorar minhas habilidades. Tenho experiência com C#, .NET, Python e JavaScript, e estou em busca de oportunidades para expandir meu conhecimento na área.
 
