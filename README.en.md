@@ -5,11 +5,7 @@
 
 Hello there! I am an Information Systems' student with a strong interest in software development, focused on learning and enhancing my skills. I have experience with C#, .NET, Python, and JavaScript, and I am seeking opportunities to further expand my knowledge in the field.
 
-I have a strong focus on creating durable and scalable solutions, implementing agile algorithms, and encouraging collaborative development practices. Constantly acquiring new technologies is a priority for me to enhance my projects and deliver top-notch products.
-
-In addition to development, I dedicate part of my free time to sharing programming knowledge. I find great satisfaction in teaching and assisting other developers, whether through tutorials or helping colleagues troubleshoot their code.
-
-Feel free to explore my projects and follow my development. I am always looking for new challenges and opportunities to grow professionally.👋
+I aim to keep collaborating with fellow developers and enhance my proficiency in new technologies to ensure the delivery of high-quality projects. Feel free to explore my repositories or reach out for potential collaborations.👋
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
