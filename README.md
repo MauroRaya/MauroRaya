@@ -5,11 +5,7 @@
 
 Olá, sou estudante de Sistemas de Informação com interesse em desenvolvimento de software, focado em aprender e aprimorar minhas habilidades. Tenho experiência com C#, .NET, Python e JavaScript, e estou em busca de oportunidades para expandir meu conhecimento na área.
 
-Tenho grande interesse em criar soluções robustas e escaláveis, aplicando metodologias eficientes e promovendo práticas de desenvolvimento colaborativo. Estou constantemente aprendendo novas tecnologias para melhorar meus projetos e buscar excelência na entrega de produtos de qualidade.
-
-Além do desenvolvimento, dedico parte do meu tempo livre para compartilhar conhecimento de programação. Sinto grande satisfação em ensinar e ajudar outros desenvolvedores, seja através de tutoriais ou auxiliando colegas a resolver problemas em seus códigos.
-
-Sinta-se à vontade para explorar meus projetos e acompanhar meu desenvolvimento. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.👋
+Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhecimentos em novas tecnologias para garantir a entrega de projetos de alta qualidade. Sinta-se à vontade para explorar meus repositórios ou entrar em contato para possíveis colaborações.👋
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
