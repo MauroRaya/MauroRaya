@@ -18,7 +18,13 @@ Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhe
 <img align="left" alt="HTML"       width="35px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img align="left" alt="CSS"        width="35px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+
+
+
+
 <img align="left" alt="TypeScript" width="35px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
+<img align="left" alt="React"      width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
+<img align="left" alt="Angular"    width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=6SWtW8hxZWSo&format=png&color=000000" />
 <img align="left" alt="Node"       width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
 <img align="left" alt="Golang"     width="35px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" />    
 <img align="left" alt="JWT"        width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" />    
