@@ -3,7 +3,7 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.en.md)
 
-Olá, sou estudante de Sistemas de Informação com interesse em desenvolvimento de software, focado em aprender e aprimorar minhas habilidades.
+Olá, tudo bem? Eu sou o Mauro e atualmente estou cursando Sistemas de Informação. Tenho grande interesse em desenvolvimento de software e estou sempre em busca de novos desafios para aprender e crescer como desenvolvedor
 
 Nos últimos dois anos, participei do desenvolvimento de diversas soluções em software, incluindo aplicações web e projetos de web scraping.
 
