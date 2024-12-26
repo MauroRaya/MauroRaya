@@ -12,7 +12,7 @@ Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhe
 <img align="left" alt="C"      width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
 <img align="left" alt="Csharp" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
 <img align="left" alt="Dotnet" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" />
 
 <br><br>
 
@@ -20,8 +20,9 @@ Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhe
 <img align="left" alt="CSS"        width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
-<img align="left" alt="Node" width="45px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
-<img align="left" alt="Golang" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" />      
+<img align="left" alt="Node"       width="45px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
+<img align="left" alt="Golang"     width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" />    
+<img align="left" alt="JWT"        width="45px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" />    
 
 <br><br>
 
@@ -31,5 +32,13 @@ Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhe
 
 <br><br>
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
+<img align="left" alt="Git"    width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br><br>
+
+<h2>Estudando no momento:</h2>
+
+<img align="left" alt="Git"    width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/562b4927-97dd-4245-b5e3-d7f97171c31e" />
+
 </p>
