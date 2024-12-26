@@ -20,8 +20,8 @@ Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhe
 <img align="left" alt="CSS"        width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" />      
+<img align="left" alt="Node" width="45px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
+<img align="left" alt="Golang" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" />      
 
 <br><br>
 
