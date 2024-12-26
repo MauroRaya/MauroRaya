@@ -13,7 +13,7 @@ I'm seeking opportunities that allow me to:
 - Collaborate on projects with other developers.
 - Learn new technologies and ensure the delivery of high-quality solutions.
 
-Feel free to explore my repositories or reach out for potential collaborations. 👋
+Feel free to explore my repositories or <a href="https://www.linkedin.com/in/mauroraya/" alt="LinkedIn">reach out</a> for potential collaborations. 👋
 
 <h2>Technologies:</h2> 
 
