@@ -7,18 +7,18 @@ Olá, sou estudante de Sistemas de Informação com interesse em desenvolvimento
 
 Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhecimentos em novas tecnologias para garantir a entrega de projetos de alta qualidade. Sinta-se à vontade para explorar meus repositórios ou entrar em contato para possíveis colaborações.👋
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<h2>Linguagens e ferramentas:</h2>
+
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
+<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
+<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<br>
+<br><br>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
 
 
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -28,7 +28,7 @@ Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhe
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />       
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
-<br>
+<br><br>
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
