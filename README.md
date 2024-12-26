@@ -31,10 +31,12 @@ Procuro continuar contribuindo com outros desenvolvedores e aprimorar meus conhe
 <br><br>
 
 <h2>Outros:</h2>
-<img align="left" alt="Docker" width="35px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
-<img align="left" alt="Azure"  width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" />
-<img align="left" alt="Git"    width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Linux"  width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" />
+
+<img align="left" alt="Selenium" width="35px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" />
+<img align="left" alt="Docker"   width="35px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
+<img align="left" alt="Azure"    width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" />
+<img align="left" alt="Git"      width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Linux"    width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" />
 
 <br><br>
 
