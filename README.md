@@ -12,7 +12,7 @@ Estou em busca de oportunidades que me permitam:
 - Contribuir para projetos colaborativos com outros desenvolvedores.
 - Aprender novas tecnologias e assegurar a entrega de soluções de alta qualidade.
 
-Fique à vontade para explorar meus repositórios ou me contatar para possíveis colaborações.👋
+Fique à vontade para explorar meus repositórios ou entrar em <a href="https://www.linkedin.com/in/mauroraya/" alt="LinkedIn">contato</a> para possíveis colaborações.👋
 
 <h2>Tecnologias:</h2>
 
