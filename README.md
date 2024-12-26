@@ -14,7 +14,7 @@ Estou em busca de oportunidades que me permitam:
 
 Fique à vontade para explorar meus repositórios ou me contatar para possíveis colaborações.👋
 
-<h2>Tecnologias</h2>
+<h2>Tecnologias:</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
