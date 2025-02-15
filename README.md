@@ -19,4 +19,4 @@
 
 #### 📚 Aprendendo: Java, AWS, K8s  
 
-📌 Explore meus repositórios ou entre em contato no [LinkedIn](https://www.linkedin.com/in/mauroraya/) para colaborações! 🤝
+📌 Sinta-se à vontade para explorar meus repositórios ou entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/mauroraya/)! 🤝
