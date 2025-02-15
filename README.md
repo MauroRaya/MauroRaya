@@ -6,7 +6,7 @@
 🎓 **5º semestre de Sistemas de Informação**  
 ☁️ **Estagiário em DevOps**  
 
-## Tecnologias:  
+### Tecnologias:  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logoColor=white)
@@ -17,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 
-### 📊 Estudando: ASP.NET  
-### 📚 Aprendendo: Java, AWS, K8s  
+#### 📚 Aprendendo: Java, AWS, K8s  
 
 📌 Explore meus repositórios ou entre em contato no [LinkedIn](https://www.linkedin.com/in/mauroraya/) para colaborações! 🤝
