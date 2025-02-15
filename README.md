@@ -3,8 +3,8 @@
 [![🇧🇷](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
 [![🇺🇸](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.en.md)  
 
-🎓 **5º semestre de Sistemas de Informação**  
-☁️ **Estagiário em DevOps**  
+**5º semestre de Sistemas de Informação**<br>
+**Estagiário em DevOps**  
 
 ### Tecnologias:  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -22,4 +22,4 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-📌 Sinta-se à vontade para explorar meus repositórios ou entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/mauroraya/)! 🤝
+Sinta-se à vontade para explorar meus repositórios ou entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/mauroraya/)!
