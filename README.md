@@ -4,7 +4,7 @@
 [![🇺🇸](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.en.md)  
 
 **6º semestre de Sistemas de Informação**<br>
-**Estagiário em DevOps**  
+**Analista DevOps Jr**  
 
 ### Tecnologias:  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
