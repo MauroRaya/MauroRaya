@@ -3,8 +3,8 @@
 [![🇧🇷](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
 [![🇺🇸](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.en.md)  
 
-**7º semestre de Sistemas de Informação**<br>
-**Analista DevOps Jr**  
+**6º semestre de Sistemas de Informação**<br>
+**Estagiário em DevOps**  
 
 ### Tecnologias:
 <div style="display: inline">
