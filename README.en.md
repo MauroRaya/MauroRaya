@@ -3,8 +3,8 @@
 [![🇧🇷](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.md)
 [![🇺🇸](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MauroRaya/MauroRaya/blob/main/README.en.md)  
 
-**7th semester of Information Systems**  
-**Junior DevOps Analyst**  
+**6th semester of Information Systems**  
+**DevOps Intern**  
 
 ### Technologies
 <div>
